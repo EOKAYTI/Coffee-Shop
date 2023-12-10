@@ -292,7 +292,7 @@ html {
     /* border: 1px solid #000; */
     position: relative;
     margin: 0 auto;
-    background-image: url('./IMAGE/bg_hours_book.jpg');
+    background-image: url('../IMAGE/bg_hours_book.jpg');
     background-repeat: no-repeat;
     object-fit: cover;
 }
